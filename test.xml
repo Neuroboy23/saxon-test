@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<objects>
+    <object name="foo" />
+    <object-ref name="foo" />
+</objects>
